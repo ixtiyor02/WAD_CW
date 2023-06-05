@@ -1,0 +1,23 @@
+﻿<div class="row">
+    <div class="col-md-10">
+        <h1>Car Parts</h1>
+        <div class="form-group">
+            <a href="#!/create">Create New</a>
+        <table class="table">
+            <tbody>
+                <tr ng-repeat="p in products">
+                    <td>{{p.id}}</td>
+                    <td>{{p.productName}}</td>
+                    <td>{{p.productDescription}}</td>
+                    <td>{{p.productPrice}}</td>
+                    <td>{{p.productCategory}}</td>
+                    <td>{{p.productQuantity}}</td>
+                    <td>
+                        <a href="#!/details/{{p.id}}">View</a> | <a href="#!/edit/{{p.id}}">Edit</a>
+
+                </tr>
+            </tbody>
+        </table>
+
+    </div>
+</div>

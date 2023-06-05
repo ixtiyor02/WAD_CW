@@ -1,0 +1,123 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div ng-app="CarPartsWebApp">
+    <div ng-view></div>
+</div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-route.min.js"></script>
+<script type="text/javascript">
+    // Creating a Module to use within index page
+    var baseURL = 'https://localhost:44349/api/';
+    angular
+        .module('CarPartsWebApp', ['ngRoute'])
+      .config(function ($routeProvider) {
+        $routeProvider
+          .when('/',
+            {
+              templateUrl: 'pages/index.html',
+              controller: 'IndexController'
+            })
+          .when('/create',
+            {
+              templateUrl: 'pages/create.html',
+              controller: 'CreateController'
+            })
+          .when('/details/:productId',
+            {
+              templateUrl: 'pages/details.html',
+              controller: 'DetailsController'
+            })
+          .when('/edit/:productId',
+            {
+              templateUrl: 'pages/edit.html',
+              controller: 'EditDeleteController'
+            })
+          .when('/Add/:productId',
+              {
+                  templateUrl: 'pages/Add.html',
+                  controller: 'EditDeleteController'
+              })
+               
+          .otherwise({
+            redirectTo: '/'
+          });
+      })
+      .controller('IndexController', ['$scope', '$http', function ($scope, $http) {
+        $scope.products = [];
+            $http.get('https://localhost:44349/api/cpart/')
+          .then(function (res) {
+            $scope.products = res.data;
+          })
+
+      
+      }])
+        
+
+      //Create Controller
+
+      .controller('CreateController', ['$scope', '$http', '$location', function ($scope, $http, $location) {
+        $scope.product =
+        {
+          id: 0,
+          productName: '',
+          productDescription: '',
+          productPrice: '',
+          productCategory:'',
+          productQuantity:''
+        };
+        $scope.AddProduct = function () {
+                $http.post('https://localhost:44349/api/cpart/', $scope.product)
+            .then(function (res) {
+              $location.path('/')
+            });
+        }
+      }])
+
+
+      //Details controller
+
+      .controller('DetailsController', ['$scope', '$http', '$routeParams', function ($scope, $http, $routeParams) 
+      {
+        $scope.details = [];
+
+            $http.get('https://localhost:44349/api/cpart/' + $routeParams.productId)
+          .then(function (res) 
+          {
+            $scope.details = res.data;
+          });
+      }])
+
+      //Edit Controller
+
+      .controller('EditDeleteController', ['$scope', '$http', '$location', '$routeParams', function ($scope, $http, $location, $routeParams)
+      {
+        $scope.edit = [];
+
+            $http.get('https://localhost:44349/api/cpart/' + $routeParams.productId)
+          .then(function (res)
+          {
+            $scope.edit = res.data;
+          });
+
+        $scope.Edit = function () 
+        {
+                $http.put('https://localhost:44349/api/cpart/' + $routeParams.productId, $scope.edit)
+            .then(function (res)
+            {
+              $location.path('/');
+            });
+        };
+        $scope.Delete = function () {
+                $http.delete('https://localhost:44349/api/cpart/' + $routeParams.productId, $scope.edit)
+            .then(function (res) 
+            {
+              $location.path('/');
+            });
+        };
+      }]);
+      
+
+
+</script>

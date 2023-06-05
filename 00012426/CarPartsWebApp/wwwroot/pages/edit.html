@@ -1,0 +1,35 @@
+﻿<div class="row">
+    <div class="col-md-4">
+        <div class="form-group">
+            <label for="id" class="control-label"></label>
+            <input ng-model="edit.id" disabled />
+        </div>
+        <div class="form-group">
+            <label for="productName" class="control-label"></label>
+            <input ng-model="edit.productName" placeholder="Product Name" />
+        </div>
+        <div class="form-group">
+            <label for="productDescription" class="control-label"></label>
+            <textarea ng-model="edit.productDescription" placeholder="Product Description"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="productPrice" class="control-label"></label>
+            <input ng-model="edit.productPrice" type="number" step="0.01" placeholder="Product Price" />
+        </div>
+        <div class="form-group">
+            <label for="productQuantity" class="control-label"></label>
+            <input ng-model="edit.productCategory" placeholder="Product Quantity" />
+        </div>
+        <div class="form-group">
+            <label for="productQuantity" class="control-label"></label>
+            <input ng-model="edit.productQuantity" type="number" placeholder="Product Quantity" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Save Edit" class="btn btn-block btn-success" ng-click="Edit()" />
+            <input type="submit" value="Delete" class="btn btn-block btn-danger" ng-click="Delete()" />
+        </div>
+        <div class="form-group">
+            <a href="#!/">Go back</a>
+        </div>
+    </div>
+</div>

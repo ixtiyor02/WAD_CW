@@ -1,0 +1,123 @@
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.exe
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.deps.json
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.runtimeconfig.json
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.dll
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.pdb
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.Views.dll
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.Views.pdb
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.AssemblyInfo.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\OnlineStoreWebApp.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\OnlineStoreWebApp.StaticWebAssets.Pack.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.OnlineStoreWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.OnlineStoreWebApp.props
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.OnlineStoreWebApp.props
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.OnlineStoreWebApp.props
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.TagHelpers.input.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.TagHelpers.output.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorCoreGenerate.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.Views.pdb
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.dll
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.pdb
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.genruntimeconfig.cache
+C:\Users\user\source\repos\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.exe
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.deps.json
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.dll
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.Views.dll
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\OnlineStoreWebApp.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\OnlineStoreWebApp.StaticWebAssets.Pack.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.OnlineStoreWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.OnlineStoreWebApp.props
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.OnlineStoreWebApp.props
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.OnlineStoreWebApp.props
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.TagHelpers.input.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.TagHelpers.output.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorCoreGenerate.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.dll
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.exe
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.deps.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.Views.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\OnlineStoreWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\OnlineStoreWebApp.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\OnlineStoreWebApp.StaticWebAssets.Pack.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.OnlineStoreWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.OnlineStoreWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.OnlineStoreWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.OnlineStoreWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.TagHelpers.input.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.TagHelpers.output.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorCoreGenerate.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineStoreWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\OnlineStoreWebApp.csproj.CopyComplete

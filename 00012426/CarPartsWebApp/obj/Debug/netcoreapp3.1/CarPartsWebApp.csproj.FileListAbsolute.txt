@@ -1,0 +1,164 @@
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.exe
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.deps.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.Views.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CarPartsWebApp.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CarPartsWebApp.StaticWebAssets.Pack.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CarPartsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.TagHelpers.input.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.TagHelpers.output.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorCoreGenerate.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\OnlineStoreWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.exe
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.deps.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.Views.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CarPartsWebApp.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CarPartsWebApp.StaticWebAssets.Pack.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CarPartsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.TagHelpers.input.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.TagHelpers.output.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorCoreGenerate.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.exe
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.deps.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.Views.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CarPartsWebApp.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CarPartsWebApp.StaticWebAssets.Pack.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CarPartsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.TagHelpers.input.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.TagHelpers.output.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorCoreGenerate.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.exe
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.deps.json
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.dll
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.pdb
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.Views.dll
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\bin\Debug\netcoreapp3.1\CarPartsWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CarPartsWebApp.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\CarPartsWebApp.StaticWebAssets.Pack.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.CarPartsWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.CarPartsWebApp.props
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.TagHelpers.input.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.TagHelpers.output.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorCoreGenerate.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.Views.pdb
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.dll
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.pdb
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsWebApp\obj\Debug\netcoreapp3.1\CarPartsWebApp.csproj.CopyComplete

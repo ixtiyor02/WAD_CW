@@ -1,0 +1,88 @@
+E:\Users\iabdunabiev\source\repos\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csprojAssemblyReference.cache
+E:\Users\iabdunabiev\source\repos\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfoInputs.cache
+E:\Users\iabdunabiev\source\repos\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfo.cs
+E:\Users\iabdunabiev\source\repos\sem7api\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.deps.json
+E:\Users\iabdunabiev\source\repos\sem7api\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.dll
+E:\Users\iabdunabiev\source\repos\sem7api\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.pdb
+E:\Users\iabdunabiev\source\repos\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.dll
+E:\Users\iabdunabiev\source\repos\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.deps.json
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\sem7api (1)\sem7api\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.deps.json
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.deps.json
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfo.cs
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\source\repos\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.deps.json
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\WEBAplicatios\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.deps.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\OnlineSoterAPI_CW\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.deps.json
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\WebApplicationsDevelopment-main (1)\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.deps.json
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.deps.json
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\bin\Debug\netcoreapp3.0\DataBaseAcces.pdb
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.dll
+C:\Users\user\OneDrive\Desktop\Alisher\CarPartsAPI\DataBaseAcces\obj\Debug\netcoreapp3.0\DataBaseAcces.pdb
